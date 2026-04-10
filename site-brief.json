@@ -1,0 +1,80 @@
+{
+  "companyName": "Fjordday",
+  "industry": null,
+  "websiteUrl": "fjordday.net",
+  "matchTrigger": "Relatert selskap (Proff/eier)",
+  "snippet": null,
+  "audit": {
+    "deliverabilityScore": 0,
+    "domainAgeDays": 584
+  },
+  "existingSite": {
+    "url": "fjordday.net",
+    "logoUrl": null,
+    "primaryColor": null,
+    "fetchOk": false,
+    "fetchNote": "fetch failed"
+  },
+  "aiBlueprint": {
+    "title": "Fjordday - Oppdag Norges Naturskatter",
+    "tone": "naturlig-entusiastisk",
+    "ctaPrimary": "Utforsk Fjordene",
+    "sections": [
+      {
+        "id": "hero",
+        "name": "Hero",
+        "description": "Storslått bilde av norsk fjordlandskap med overlappende tekst 'Opplev fjordenes magi'. CTA for booking/utforsking."
+      },
+      {
+        "id": "om-oss",
+        "name": "Om Fjordday",
+        "description": "Kort introduksjon om Fjordday, virksomhetens formål og hva de tilbyr besøkende i fjordområdene."
+      },
+      {
+        "id": "opplevelser",
+        "name": "Våre Opplevelser",
+        "description": "Kategorisert visning av tilgjengelige aktiviteter/turer med bilder, kort beskrivelse og pris. Filtreringsmuligheter."
+      },
+      {
+        "id": "destinasjoner",
+        "name": "Populære Destinasjoner",
+        "description": "Kart eller grid-visning av fjorder/områder med høydepunkter og særpreg for hver destinasjon."
+      },
+      {
+        "id": "testimonials",
+        "name": "Gjestenes Opplevelser",
+        "description": "Karusell med kundevurderinger, bilder fra tidligere turer og sitater fra fornøyde gjester."
+      },
+      {
+        "id": "baerekraft",
+        "name": "Bærekraftig Turisme",
+        "description": "Fjordday's tilnærming til miljøvennlig turisme, lokale partnerskap og bevaring av naturområdene."
+      },
+      {
+        "id": "booking",
+        "name": "Bestill Din Opplevelse",
+        "description": "Integrert bookingsystem med kalender, gruppestørrelser og tilgjengelighetsoversikt."
+      },
+      {
+        "id": "kontakt",
+        "name": "Kontakt Oss",
+        "description": "Kontaktskjema, kart til kontorlokalitet, telefonnummer og e-post. Også nødkontakt for pågående turer."
+      }
+    ],
+    "recommendations": [
+      "Implementer sesongbasert innhold som fremhever ulike aktiviteter basert på årstid",
+      "Inkluder værinformasjon-widget for destinasjonene",
+      "Legg til språkvalg for internasjonale turister",
+      "Integrer virtuell fjordopplevelse eller 360° visninger av populære steder",
+      "Fremhev sikkerhetsinformasjon og nødvendige forberedelser for aktivitetene"
+    ],
+    "parseNote": null,
+    "rawFallback": null
+  },
+  "uspLines": [
+    "Struktur og innhold tilpasses bedriftens profil og målgruppe.",
+    "Forslaget tar utgangspunkt i eksisterende nettside — logo og farger er forsøkt hentet automatisk.",
+    "Ekstra fokus på lead-signalet «Relatert selskap (Proff/eier)» fra kilden."
+  ],
+  "generatedAt": "2026-04-10T18:41:19.388Z"
+}
